@@ -39,6 +39,14 @@ The strategy is not a "black box" algorithm but a discretionary system with rigi
 * [cite_start]**Hard Limits:** Maximum risk per trade is capped at 1% of account equity[cite: 13].
 * [cite_start]**Capital Preservation:** The primary goal is protecting the downside; profits are a function of letting winners run (Avg 3.38% return per winning trade)[cite: 26].
 
+### D. Empirical Validation & Temporal Execution
+The strategy relies on verified statistical probability rather than discretionary prediction.
+
+* **Statistical Significance:** Entry models are not deployed based on intuition. All patterns undergo rigorous historical backtesting to confirm positive expectancy (Edge) before being approved for live capital allocation.
+* **Temporal Constraints:** Time is utilized as a rigid filter. If price action fails to validate the trade thesis within a specific duration, the position is liquidated immediately to minimize capital exposure (Time-Based Stop).
+* **Dynamic Trade Management:**
+    * **Defensive:** Early exits are triggered if momentum decelerates, prioritizing capital preservation over "hope."
+    * **Offensive:** Profit targets are not static; they are dynamically extended during favorable order flow to maximize positive skew (Average Winner > Average Loser).
 ---
 
 ## 4. Verification
