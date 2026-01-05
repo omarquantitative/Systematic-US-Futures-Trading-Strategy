@@ -5,7 +5,7 @@
 ## 1. Executive Summary
 A systematic, rule-based trading strategy developed for US Index Futures (NASDAQ, S&P 500,DOW). The approach combines **Technical Price Action** with **Macro-Economic Context** to identify high-probability setups during the New York Session.
 
-Unlike theoretical models, this strategy was built on live market experience, focusing on event risk (News/CPI) and specific intraday volatility windows.
+Unlike theoretical models, this strategy was built on live market experience, and is backed up by test Data, focusing on event risk (News/CPI) and specific intraday volatility windows.
 
 ![Equity Curve vs SP500](Equity-Curve-with-compounding.png)
 
