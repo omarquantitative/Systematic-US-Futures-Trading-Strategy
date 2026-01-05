@@ -32,7 +32,7 @@ The strategy is not a "black box" algorithm but a discretionary system with rigi
 
 ### B. Systematic Entry & Exit
 * [cite_start]**Time-Based Execution:** Strictly trades the NY Session (15:00 - 16:30) to capture peak volume[cite: 21].
-* **Price Structure:** Uses key technical levels (Support/Resistance/Trends) combined with momentum validation.
+* **Price Structure:** Uses key technical levels combined with momentum validation.
 * [cite_start]**Selection:** "Quality over Quantity"—days with conflicting signals result in no trade[cite: 138].
 
 ### C. Risk Management
